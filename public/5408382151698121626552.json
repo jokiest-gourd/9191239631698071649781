@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "1016851348956",
+    "project_id": "anak-santri-4c5db",
+    "storage_bucket": "anak-santri-4c5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:c1c89078ad9d0768c46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.bisnisalanabi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:8ec6bfa5d6ae77d0c46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.bukupintar.alamghaib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:f348ee72dd3dea88c46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.ilmutajwidlengkap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:c8d9ce5a15b8f6bdc46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.sejarahdunia.yangdisembunyikan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:81d98f77b2066f9ac46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.syarahhaditsarbain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:d9508a6cacbeb96ec46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.syarahsyamail.nabimuhammad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:38e7f8b4e983e223c46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.terjemahalhikam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:974654f5a50179a4c46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.terjemahfathulqorib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016851348956:android:09d46cb7949582e7c46319",
+        "android_client_info": {
+          "package_name": "com.anaksantri.terjemahtalim.mutaallim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMcdnwTlTYIQMQSWtLT8RaDXlHPtGE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
