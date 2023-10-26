@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745072893899",
+    "project_id": "rokan-studio",
+    "storage_bucket": "rokan-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745072893899:android:4ed5a66405ca4c9c92204e",
+        "android_client_info": {
+          "package_name": "com.rokanstudio.cekdptonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgmc5DpVPpiMuEliiPgCXs4J_tk72oHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
